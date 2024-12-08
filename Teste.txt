@@ -1,2 +1,3 @@
 testando git
-modificando arquivo branch test modificando
+modificando arquivo branch test
+forçando erro
